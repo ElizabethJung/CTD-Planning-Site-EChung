@@ -7,45 +7,6 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<style type="text/css">
-#apDiv1 {
-	position:absolute;
-	left:18px;
-	top:61px;
-	width:989px;
-	height:76px;
-	z-index:1;
-}
-#apDiv2 {
-	position:absolute;
-	left:18px;
-	top:152px;
-	width:993px;
-	height:432px;
-	z-index:2;
-}td img {display: block;}
-#apDiv3 {
-	position:absolute;
-	left:175px;
-	top:2px;
-	width:621px;
-	height:40px;
-	z-index:3;
-	color: #96C;
-}
-#apDiv3 strong {
-	font-size: 36px;
-	color: indigo;
-}
-.vbn {
-	color: indigo;
-}
-body {
-	background-color: #FAFAFA;
-}
-</style>
-
-
 <script language="JavaScript1.2" type="text/javascript">
 <!--
 function MM_findObj(n, d) { //v4.01
@@ -95,50 +56,81 @@ function MM_preloadImages() { //v3.0
 
 //-->
 </script>
+<style type="text/css">
+td img {display: block;}#apDiv4 {
+	position:absolute;
+	left:364px;
+	top:1px;
+	width:391px;
+	height:14px;
+	z-index:1;
+}
+</style>
+
+
 </head>
 
-<body>
+<body bgcolor="#ffffff" onload="MM_preloadImages('../pictures/FWbuttons_r2_c3_s2.gif','../pictures/FWbuttons_r2_c3_s3.gif','../pictures/FWbuttons_r3_c4_s2.gif','../pictures/FWbuttons_r3_c4_s3.gif','../pictures/FWbuttons_r2_c5_s2.gif','../pictures/FWbuttons_r2_c5_s3.gif','../pictures/FWbuttons_r2_c7_s2.gif','../pictures/FWbuttons_r2_c7_s3.gif','../pictures/FWbuttons_r2_c9_s2.gif','../pictures/FWbuttons_r2_c9_s3.gif','../pictures/FWbuttons_r3_c2_s2.gif','../pictures/FWbuttons_r3_c2_s3.gif');">
+<div id="apDiv4"> Elizabeth Chung's Planning site</div>
 <div id="apDiv1">
-  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="615">
-    <!-- fwtable fwsrc="Planningsite buttons.png" fwpage="Page 1" fwbase="FWbuttons.gif" fwstyle="Dreamweaver" fwdocid = "163950050" fwnested="0" -->
-    <tr>
-      <td width="14"><img src="../pictures/spacer.gif" width="14" height="1" border="0" alt="" /></td>
-      <td width="96"><img src="../pictures/spacer.gif" width="96" height="1" border="0" alt="" /></td>
-      <td width="27"><img src="../pictures/spacer.gif" width="27" height="1" border="0" alt="" /></td>
-      <td width="96"><img src="../pictures/spacer.gif" width="96" height="1" border="0" alt="" /></td>
-      <td width="28"><img src="../pictures/spacer.gif" width="28" height="1" border="0" alt="" /></td>
-      <td width="96"><img src="../pictures/spacer.gif" width="96" height="1" border="0" alt="" /></td>
-      <td width="27"><img src="../pictures/spacer.gif" width="27" height="1" border="0" alt="" /></td>
-      <td width="96"><img src="../pictures/spacer.gif" width="96" height="1" border="0" alt="" /></td>
-      <td width="134"><img src="../pictures/spacer.gif" width="20" height="1" border="0" alt="" /></td>
-      <td width="10"><img src="../pictures/spacer.gif" width="1" height="1" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td colspan="9"><img name="FWbuttons_r1_c1" src="../pictures/FWbuttons_r1_c1.gif" width="500" height="7" border="0" id="FWbuttons_r1_c1" alt="" /></td>
-      <td><img src="../pictures/spacer.gif" width="1" height="7" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td rowspan="2"><img name="FWbuttons_r2_c1" src="../pictures/FWbuttons_r2_c1.gif" width="14" height="43" border="0" id="FWbuttons_r2_c1" alt="" /></td>
-      <td><a href="../brainstorm.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c2','pictures/FWbuttons_r2_c2_s2.gif','pictures/FWbuttons_r2_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c2','pictures/FWbuttons_r2_c2_s3.gif',1);"><img name="FWbuttons_r2_c2" src="../pictures/FWbuttons_r2_c2.gif" width="96" height="36" border="0" id="FWbuttons_r2_c2" alt="" /></a></td>
-      <td rowspan="2"><img name="FWbuttons_r2_c3" src="../pictures/FWbuttons_r2_c3.gif" width="27" height="43" border="0" id="FWbuttons_r2_c3" alt="" /></td>
-      <td><a href="../research.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c4','pictures/FWbuttons_r2_c4_s2.gif','pictures/FWbuttons_r2_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c4','pictures/FWbuttons_r2_c4_s3.gif',1);"><img name="FWbuttons_r2_c4" src="../pictures/FWbuttons_r2_c4.gif" width="96" height="36" border="0" id="FWbuttons_r2_c4" alt="" /></a></td>
-      <td rowspan="2"><img name="FWbuttons_r2_c5" src="../pictures/FWbuttons_r2_c5.gif" width="28" height="43" border="0" id="FWbuttons_r2_c5" alt="" /></td>
-      <td><a href="../homepage.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c6','pictures/FWbuttons_r2_c6_s2.gif','pictures/FWbuttons_r2_c6_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c6','pictures/FWbuttons_r2_c6_s3.gif',1);"><img name="FWbuttons_r2_c6" src="../pictures/FWbuttons_r2_c6.gif" width="96" height="36" border="0" id="FWbuttons_r2_c6" alt="" /></a></td>
-      <td rowspan="2"><img name="FWbuttons_r2_c7" src="../pictures/FWbuttons_r2_c7.gif" width="27" height="43" border="0" id="FWbuttons_r2_c7" alt="" /></td>
-      <td><a href="../subpage.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c8','pictures/FWbuttons_r2_c8_s2.gif','pictures/FWbuttons_r2_c8_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c8','pictures/FWbuttons_r2_c8_s3.gif',1);"><img name="FWbuttons_r2_c8" src="../pictures/FWbuttons_r2_c8.gif" width="96" height="36" border="0" id="FWbuttons_r2_c8" alt="" /></a></td>
-      <td rowspan="2"><img name="FWbuttons_r2_c9" src="../pictures/FWbuttons_r2_c9.gif" width="20" height="43" border="0" id="FWbuttons_r2_c9" alt="" /></td>
-      <td><img src="../pictures/spacer.gif" width="1" height="36" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td><img name="FWbuttons_r3_c2" src="../pictures/FWbuttons_r3_c2.gif" width="96" height="7" border="0" id="FWbuttons_r3_c2" alt="" /></td>
-      <td><img name="FWbuttons_r3_c4" src="../pictures/FWbuttons_r3_c4.gif" width="96" height="7" border="0" id="FWbuttons_r3_c4" alt="" /></td>
-      <td><img name="FWbuttons_r3_c6" src="../pictures/FWbuttons_r3_c6.gif" width="96" height="7" border="0" id="FWbuttons_r3_c6" alt="" /></td>
-      <td><img name="FWbuttons_r3_c8" src="../pictures/FWbuttons_r3_c8.gif" width="96" height="7" border="0" id="FWbuttons_r3_c8" alt="" /></td>
-      <td><img src="../pictures/spacer.gif" width="1" height="7" border="0" alt="" /></td>
-    </tr>
+  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="1000">
+  <tr>
+    <td><table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="1000">
+      <!-- fwtable fwsrc="Planningsite buttons.png" fwpage="Page 1" fwbase="FWbuttons.gif" fwstyle="Dreamweaver" fwdocid = "163950050" fwnested="0" -->
+      <tr>
+        <td><img src="../pictures/spacer.gif" width="116" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="119" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="117" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="2" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="122" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="122" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="2" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="123" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="270" height="1" border="0" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+      </tr>
+      <tr>
+        <td colspan="11"><img name="FWbuttons_r1_c1" src="../pictures/FWbuttons_r1_c1.gif" width="1000" height="11" border="0" id="FWbuttons_r1_c1" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="11" border="0" alt="" /></td>
+      </tr>
+      <tr>
+        <td colspan="2"><img name="FWbuttons_r2_c1" src="../pictures/FWbuttons_r2_c1.gif" width="235" height="1" border="0" id="FWbuttons_r2_c1" alt="" /></td>
+        <td colspan="2"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s2.gif','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s2.gif','../pictures/FWbuttons_r3_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s3.gif',1);"><img name="FWbuttons_r2_c3" src="../pictures/FWbuttons_r2_c3.gif" width="123" height="1" border="0" id="FWbuttons_r2_c3" alt="" /></a></td>
+        <td rowspan="2" colspan="2"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c5','../pictures/FWbuttons_r2_c5_s2.gif','../pictures/FWbuttons_r2_c5_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c5','../pictures/FWbuttons_r2_c5_s3.gif',1);"><img name="FWbuttons_r2_c5" src="../pictures/FWbuttons_r2_c5.gif" width="124" height="42" border="0" id="FWbuttons_r2_c5" alt="" /></a></td>
+        <td rowspan="2" colspan="2"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c7','../pictures/FWbuttons_r2_c7_s2.gif','../pictures/FWbuttons_r2_c7_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c7','../pictures/FWbuttons_r2_c7_s3.gif',1);"><img name="FWbuttons_r2_c7" src="../pictures/FWbuttons_r2_c7.gif" width="123" height="42" border="0" id="FWbuttons_r2_c7" alt="" /></a></td>
+        <td rowspan="2" colspan="2"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c9','../pictures/FWbuttons_r2_c9_s2.gif','../pictures/FWbuttons_r2_c9_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c9','../pictures/FWbuttons_r2_c9_s3.gif',1);"><img name="FWbuttons_r2_c9" src="../pictures/FWbuttons_r2_c9.gif" width="125" height="42" border="0" id="FWbuttons_r2_c9" alt="" /></a></td>
+        <td rowspan="4"><img name="FWbuttons_r2_c11" src="../pictures/FWbuttons_r2_c11.gif" width="270" height="59" border="0" id="FWbuttons_r2_c11" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+      </tr>
+      <tr>
+        <td rowspan="3"><img name="FWbuttons_r3_c1" src="../pictures/FWbuttons_r3_c1.gif" width="116" height="58" border="0" id="FWbuttons_r3_c1" alt="" /></td>
+        <td rowspan="2" colspan="2"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r3_c2','../pictures/FWbuttons_r3_c2_s2.gif','../pictures/FWbuttons_r3_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r3_c2','../pictures/FWbuttons_r3_c2_s3.gif',1);"><img name="FWbuttons_r3_c2" src="../pictures/FWbuttons_r3_c2.gif" width="125" height="42" border="0" id="FWbuttons_r3_c2" alt="" /></a></td>
+        <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s2.gif','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s2.gif','../pictures/FWbuttons_r3_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s3.gif',1);"><img name="FWbuttons_r3_c4" src="../pictures/FWbuttons_r3_c4.gif" width="117" height="41" border="0" id="FWbuttons_r3_c4" alt="" /></a></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="41" border="0" alt="" /></td>
+      </tr>
+      <tr>
+        <td rowspan="2" colspan="7"><img name="FWbuttons_r4_c4" src="../pictures/FWbuttons_r4_c4.gif" width="489" height="17" border="0" id="FWbuttons_r4_c4" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+      </tr>
+      <tr>
+        <td colspan="2"><img name="FWbuttons_r5_c2" src="../pictures/FWbuttons_r5_c2.gif" width="125" height="16" border="0" id="FWbuttons_r5_c2" alt="" /></td>
+        <td><img src="../pictures/spacer.gif" width="1" height="16" border="0" alt="" /></td>
+      </tr>
+    </table>      <a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s2.gif','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s2.gif','../pictures/FWbuttons_r3_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttons_r2_c3','../pictures/FWbuttons_r2_c3_s3.gif','FWbuttons_r3_c4','../pictures/FWbuttons_r3_c4_s3.gif',1);"></a></td>
+  </tr>
   </table>
 </div>
-<div id="apDiv2"><!-- TemplateBeginEditable name="SC" -->SC<!-- TemplateEndEditable --></div>
-<div class="vbn" id="apDiv3"><strong>Elizabeth Chung's Planning book </strong></div>
+<div id="apDiv2"><!-- TemplateBeginEditable name="SC" -->SC<!-- TemplateEndEditable -->
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+<div class="vbn" id="apDiv3"></div>
 </body>
 </html>
